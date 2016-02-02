@@ -1,1 +1,2 @@
-Ja sam robot Tomislav.
+print("Ja sam robot Tomislav.")
+

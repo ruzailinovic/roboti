@@ -1,1 +1,1 @@
-Ja sam robot Tihomir.
+print("Ja sam robot Tihomir.")
